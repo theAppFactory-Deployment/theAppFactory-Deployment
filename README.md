@@ -6,7 +6,7 @@
 ## Team
 ### Current Team
 - **Team Lead: Tug O'Flaherty**
--  Team Members: John Abairo, Amir Akerkaou, Mihir Mistry, Lino Perdrix, Ali Varmazyar
+-  Team Members: Amir Akerkaou, Mihir Mistry, Lino Perdrix, Ali Varmazyar
 ### Past Team
 - **Team Lead: -**
 -  Team Members: -
